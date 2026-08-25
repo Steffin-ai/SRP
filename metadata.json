@@ -1,0 +1,6 @@
+{
+  "name": "Smart Rate Planner (SRP)",
+  "description": "Advertising rate-combination optimization tool that calculates optimal spot allocations for exact target rates, maximizing impressions while adhering to spot constraints.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
